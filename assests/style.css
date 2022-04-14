@@ -1,0 +1,40 @@
+ img {
+     width: 100%;
+     position: relative;
+ }
+ 
+ .top-left {
+     position: absolute;
+     top: 150px;
+     left: 200px;
+     font-size: medium;
+ }
+ 
+ .top-left h5 {
+     color: orange;
+ }
+ 
+ .btn-danger {
+     color: #fff;
+     background-color: #dc3545;
+     border-color: #dc3545;
+     border-radius: 20px;
+     width: 120px;
+ }
+ 
+ .text1 p {
+     font-size: 25px;
+     line-height: normal;
+     font-weight: 400;
+     margin-left: 45px;
+ }
+ 
+ .img2 img {
+     border-radius: 35% 0%;
+     width: 100%;
+     justify-content: center;
+ }
+ 
+ .container.card {
+     width: fit-content;
+ }

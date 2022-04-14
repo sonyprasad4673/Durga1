@@ -1,0 +1,51 @@
+@media(max-width:768px) {
+    .col-md-3.card {
+        margin-bottom: 1.5rem;
+    }
+}
+
+.banner-img {
+    background-image: url('../assests/images/banner-task3.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    padding: 5rem 0;
+}
+
+h1.white-text {
+    color: #FFFFFF;
+    font-size: xx-large;
+}
+
+.bg-para2 {
+    color: #fcc82b;
+}
+
+.card {
+    margin: auto;
+    margin-bottom: 1.5rem;
+}
+
+.card img {
+    width: 80px;
+    margin: auto;
+}
+
+.bg-theme {
+    text-decoration: none;
+    cursor: pointer;
+    padding: 0.7rem 2rem;
+    background-color: #9e3845;
+    color: #fff !important;
+    border-radius: 10px;
+}
+
+.red-bg {
+    background-color: #9e3845;
+}
+
+.text-center img {
+    border-radius: 50px 0;
+}
